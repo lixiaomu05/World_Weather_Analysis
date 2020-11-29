@@ -8,7 +8,7 @@ The user of this project would like to go somewhere cool with minimum temperatur
 
 ![](Vacation_Search/WeatherPy_vacation_map.png)
 
-The user decides to go to the United States and therefore selected four cities to visit. Below are the travel itinerary and detailed information on each city. 
+The user decides to go to Japan and therefore selected four cities to visit. Below are the travel itinerary and detailed information on each city. 
 
 ![](Vacation_Itinerary/WeatherPy_travel_map.png)
 
